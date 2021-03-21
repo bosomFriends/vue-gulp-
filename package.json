@@ -1,5 +1,5 @@
 {
-  "name": "vue-webgulp",
+  "name": "vue-gulp",
   "version": "0.1.0",
   "description": "Vue.js + Webpack + Gulp + Vue Loader skeleton",
   "main": "src/main.js",
